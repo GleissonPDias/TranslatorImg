@@ -1,0 +1,1 @@
+Para instalar todos os componentes necessarios, após baixar o arquivo.py e o requiriments.txt, executar no terminal o comando: pip install -r requirements.txt, dependendo do caso vocês teram que ativar o ambiente virtual para que funcione.
